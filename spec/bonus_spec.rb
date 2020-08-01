@@ -10,4 +10,4 @@ require_relative '../lib/bonus.rb'
 #   end
 # end
 
-expect_bonus[:montague][:hero][:status] = "dead"
+expect(bonus)[:montague][:hero][:status] = "dead"
