@@ -10,3 +10,4 @@ require_relative '../lib/bonus.rb'
 #   end
 # end
 
+epic_tragedy[:montague][:hero][:status] = "dead"
